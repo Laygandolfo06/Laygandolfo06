@@ -3,10 +3,6 @@
 <h3 align="left">🔭 I’m currently studying c#</h3>
 <h3 align="left"> 👯 I’m looking to collaborate on web projets</h3>
 <h3 align="left">🌱 I’m currently learning database</h3>
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/hacker-27/">
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laygandolfo06&label=Profile%20views&color=0e75b6&style=flat" alt="laygandolfo06" /> </p>
