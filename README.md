@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm lay</h1>
+<h1 align="left">Hi 👋🏿, I'm lay<a href="https://instagram.com/lay10141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lay10141" height="30" width="40" /></a></h1>
 <h3 align="left">probably a future programmer</h3>
 <h3 align="left">🔭 I’m currently studying c#</h3>
 <h3 align="left"> 👯 I’m looking to collaborate on web projets</h3>
