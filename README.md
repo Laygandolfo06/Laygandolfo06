@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm lay</h1>
 <h3 align="center">probably a future programmer</h3>
+<h3 align="center">🔭 I’m currently studying c#</h3>
+<h3 align="center"> 👯 I’m looking to collaborate on web projets</h3>
+<h3 align="center">🌱 I’m currently learning database</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laygandolfo06&label=Profile%20views&color=0e75b6&style=flat" alt="laygandolfo06" /> </p>
 
