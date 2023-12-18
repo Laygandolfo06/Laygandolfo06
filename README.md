@@ -3,7 +3,7 @@
 <h3 align="left">🔭 I’m currently studying c#</h3>
 <h3 align="left"> 👯 I’m looking to collaborate on web projets</h3>
 <h3 align="left">🌱 I’m currently learning database</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Ftag%2Fhacking&psig=AOvVaw2BUkt-1ZnfuAGvfL6pNB8s&ust=1702997094292000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDxxticmYMDFQAAAAAdAAAAABAI](https://www.google.com/search?q=gif+hacker+meme&sca_esv=591869924&rlz=1C1ONGR_itIT973IT973&sxsrf=AM9HkKm8ycOXsmjn1lbohuzahq6O3VJ_sg%3A1702910674973&ei=0lqAZcT1Oozkxc8Pz7yCiAI&oq=gif+hacker+mem&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmdpZiBoYWNrZXIgbWVtKgIIADIIEAAYgAQYywEyBhAAGBYYHjIGEAAYFhgeSJUcUPAIWMsScAJ4AZABAJgBcaABiwOqAQMzLjG4AQHIAQD4AQHCAgoQABhHGNYEGLADwgINEAAYgAQYigUYQxiwA8ICChAAGIAEGMsBGAriAwQYACBBiAYBkAYH&sclient=gws-wiz-serp#imgrc=hRNq_b8vVjkH-M&imgdii=DEa4_yRSaZf4fM)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Ftag%2Fhacker%2Bman&psig=AOvVaw2BUkt-1ZnfuAGvfL6pNB8s&ust=1702997094292000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDxxticmYMDFQAAAAAdAAAAABAb">
 
 
 
