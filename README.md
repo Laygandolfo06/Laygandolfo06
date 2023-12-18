@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm lay</h1>
-<h3 align="center">probably a future programmer</h3>
-<h3 align="center">🔭 I’m currently studying c#</h3>
-<h3 align="center"> 👯 I’m looking to collaborate on web projets</h3>
-<h3 align="center">🌱 I’m currently learning database</h3>
-<img align="right" alt="coding" width="400" src="(https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM)">
+<h1 align="left">Hi 👋, I'm lay</h1>
+<h3 align="left">probably a future programmer</h3>
+<h3 align="left">🔭 I’m currently studying c#</h3>
+<h3 align="left"> 👯 I’m looking to collaborate on web projets</h3>
+<h3 align="left">🌱 I’m currently learning database</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Ftag%2Fhacking&psig=AOvVaw2BUkt-1ZnfuAGvfL6pNB8s&ust=1702997094292000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDxxticmYMDFQAAAAAdAAAAABAI">
 
 
 
