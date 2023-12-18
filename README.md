@@ -3,6 +3,9 @@
 <h3 align="center">🔭 I’m currently studying c#</h3>
 <h3 align="center"> 👯 I’m looking to collaborate on web projets</h3>
 <h3 align="center">🌱 I’m currently learning database</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhacker-meme&psig=AOvVaw2BUkt-1ZnfuAGvfL6pNB8s&ust=1702997094292000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDxxticmYMDFQAAAAAdAAAAABAE">
+
+
 
 
 
