@@ -16,6 +16,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laygandolfo06" alt="laygandolfo06" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laygandolfo06&show_icons=true&locale=en&layout=compact" alt="laygandolfo06" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
