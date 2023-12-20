@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laygandolfo06&show_icons=true&locale=en&layout=compact" alt="laygandolfo06" /></p>
 
 
-
+![snake gif](https://github.com/Laygandolfo06/Laygandolfo06//blob/output/github-contribution-grid-snake.gif)
 
 
 
